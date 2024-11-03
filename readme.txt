@@ -1,0 +1,1 @@
+This repository showcases a responsive food website built with HTML and CSS, utilizing CSS Flexbox for a flexible layout. It features smooth animations and transitions that enhance user experience and visual appeal. Explore the code to see how modern design techniques come together in this project!
